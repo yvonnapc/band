@@ -1,0 +1,25 @@
+.shows {
+  float: right;
+  font-size: 30px;
+  font-style:oblique;
+  color: purple;
+  background-color: orange;
+  margin: 10px;
+  padding: 5px;
+  border: 5px solid green;
+}
+
+img.opening {
+  float: left;
+}
+
+img.zucchini {
+  padding: 6px;
+  border: 3px solid purple;
+  margin: 5px;
+}
+img.opening {
+  padding: 6px;
+  border: 3px solid purple;
+  margin: 5px;
+}
